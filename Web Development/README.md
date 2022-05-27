@@ -3,16 +3,16 @@
 ### Part of BSc Computer Science (Data Science) degree at Goldsmiths, University of London
 ##### Throughout this course, the learning objective in the syllabus will impemented and uploaded to my homepage. Current version located at https://kraack.tech/ 
 
-1. version:
+1. Version:
 
    https://kraack.tech/1/
 
-   created simple index.html  
-   added h1 header, bground color, sample text, lists (ordered, unordered), and images.
+   - created simple index.html  
+   - added h1 header, bground color, sample text, lists (ordered, unordered), and images.
 
 <br />
 
-2. version:
+2. Version:
 
    https://kraack.tech/2/
 
@@ -25,7 +25,7 @@
 
 <br />
 
-3. version: 
+3. Version: 
 
    https://kraack.tech/3/
 
@@ -38,7 +38,7 @@
 
 <br />
 
-4. version: 
+4. Version: 
 
    https://kraack.tech/4/
 
@@ -46,7 +46,7 @@
 
 <br />
 
-5. version: https://kraack.tech/5/
+5. Version: https://kraack.tech/5/
 
    - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
