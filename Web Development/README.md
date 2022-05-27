@@ -3,7 +3,7 @@
 ### Part of BSc Computer Science (Data Science) degree at Goldsmiths, University of London
 ##### Throughout this course, the learning objective in the syllabus will impemented and uploaded to my homepage. Current version located at https://kraack.tech/ 
 
-1. Version:
+### 1. Version:
 
    https://kraack.tech/1/
 
@@ -12,7 +12,7 @@
 
 <br />
 
-2. Version:
+### 2. Version:
 
    https://kraack.tech/2/
 
@@ -25,7 +25,7 @@
 
 <br />
 
-## 3. Version: 
+### 3. Version: 
 
    https://kraack.tech/3/
 
@@ -38,7 +38,7 @@
 
 <br />
 
-4. Version: 
+### 4. Version: 
 
    https://kraack.tech/4/
 
@@ -46,7 +46,7 @@
 
 <br />
 
-5. Version: https://kraack.tech/5/
+### 5. Version: https://kraack.tech/5/
 
    - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
