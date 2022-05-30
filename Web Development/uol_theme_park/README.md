@@ -2,7 +2,7 @@
 
 #### 1. Version:
 
-   [https://kraack.tech/1/](https://kraack.tech/uol_theme_park/)
+   [https://kraack.tech/uol_theme_park/](https://kraack.tech/uol_theme_park/)
 
    - index.html & css
    - topbar
