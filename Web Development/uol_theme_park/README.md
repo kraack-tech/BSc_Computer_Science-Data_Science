@@ -2,8 +2,6 @@
 
 #### 1. Version:
 
-   [https://kraack.tech/uol_theme_park/](https://kraack.tech/uol_theme_park/)
-
    - index.html & css
    - topbar
    - sticky navbar with link hover
@@ -16,5 +14,14 @@
 
 <br />
 
+#### 2. Version:
+
+   [https://kraack.tech/uol_theme_park/](https://kraack.tech/uol_theme_park/)
+
+   - comment index & css
+   - update id and class names
+   - relocate topbar
+   - create mascot + animate
+   - animate shapes (with diff. delays timins)
 
 
