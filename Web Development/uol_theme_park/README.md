@@ -22,6 +22,6 @@
    - update id and class names
    - relocate topbar
    - create mascot + animate
-   - animate shapes (with diff. delays timins)
+   - animate shapes (with diff. delays timings)
 
 
