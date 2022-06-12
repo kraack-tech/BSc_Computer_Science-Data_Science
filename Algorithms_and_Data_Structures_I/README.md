@@ -1,6 +1,6 @@
-# Algorithms and Data Structures I
+# Algorithms and Data Structures I - Midterm
 
 ### Part of BSc Computer Science (Data Science) degree at Goldsmiths, University of London
-##### Throughout this course, the learning progress is also uploaded to my homepage.
+##### The midterm project will not be pushed before completion due to reference policies
 
 
